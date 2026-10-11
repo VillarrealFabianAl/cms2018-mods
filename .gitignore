@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+**/TestResults/
+*.dll
+*.exe
+*.pdb
+*.zip
+companion-data/
+snapshot.json
+*.tmp
+*.user
+.vs/
+work/
+backups/

@@ -1,0 +1,9 @@
+{
+  "Id": "CMS2018CompanionAutosave",
+  "DisplayName": "Workshop Companion Autosave",
+  "Author": "Workshop Companion project",
+  "Version": "0.1.0",
+  "ManagerVersion": "0.33.2",
+  "AssemblyName": "CMS2018CompanionAutosave.dll",
+  "EntryMethod": "CMS2018CompanionAutosave.Entry.Load"
+}
