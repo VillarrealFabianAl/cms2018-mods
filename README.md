@@ -35,7 +35,7 @@ The optional Bridge `Tests/check_runtime_types.py` uses `dnfile` for read-only m
 
 Bridge **0.2.0 is planned, not released**. Intended work: actionable contract-validation reasons, stale connection expiry, contract-note continuity in the companion, and navigation/source-label corrections. Current 0.1.1 can connect while reporting contracts unavailable; real objective extraction still needs runtime investigation. Do not treat it as a hand-in guarantee.
 
-Companion UI fixes belong to the separate companion project, not this mods-only repository. Both mods are independent of QoLTweaks and neither redistributes or patches its code.
+Companion UI fixes belong to the separate [CMS2018 Companion project](https://github.com/VillarrealFabianAl/cms2018-companion), not this mods-only repository. Both mods are independent of QoLTweaks and neither redistributes or patches its code.
 
 ## Repository contents and permissions
 
